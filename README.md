@@ -1,1 +1,1 @@
-# mouse_controlling_with_opencv
+# virtual_mouse_with_opencv
